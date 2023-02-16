@@ -1,0 +1,18 @@
+#     performances.append(SinglePerformance(match_id, player, hero_id, kills, deaths, assists, last_hits, denies, gpm, xpm, hero_damage, tower_damage, hero_healing, level))
+
+    # for performance in performances:
+    #     performances[performances.index(performance)] = performance.get_info()
+
+
+    # a function to select 2 random teams from team_names, then create a random match between their players
+def create_random_match_data():
+    # select 2 random teams
+    team1 = random.choice(team_names)
+    team2 = random.choice(team_names)
+    while team1 == team2:
+        team2 = random.choice(team_names)
+
+    # create a random match between the 2 teams
+    randommatch = create_random_match(team_dataframes_5[team1]['p_id'].values, team_dataframes_5[team2]['p_id'].values)
+
+    return randommatch

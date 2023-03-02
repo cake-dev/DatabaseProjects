@@ -1,81 +1,81 @@
-team_id,team_name,team_region
-0,5RATFORCESTAFF,North America
-1,ALPHA,North America
-2,Arkosh Gaming,North America
-3,B8,North America
-4,felt,North America
-5,nouns,North America
-6,Shopify Rebellion,North America
-7,Team DogChamp,North America
-8,The Cut,North America
-9,Thiuth Gaming,North America
-10,TSM,North America
-11,Wildcard Gaming,North America
-12,Alliance.LATAM,South America
-13,Balrogs,South America
-14,beastcoast,South America
-15,Dreamers Esports,South America
-16,Evil Geniuses,South America
-17,Infamous,South America
-18,Infinity,South America
-19,Keyd Stars,South America
-20,Lava,South America
-21,Mad Kings,South America
-22,Ravens,South America
-23,Thunder Awaken,South America
-24,Vicious Gaming,South America
-25,Alliance,Europe
-26,D2 Hustlers,Europe
-27,Entity,Europe
-28,Gaimin Gladiators,Europe
-29,Into The Breach,Europe
-30,IVY,Europe
-31,Level UP,Europe
-32,Monaspa,Europe
-33,Nigma Galaxy,Europe
-34,OG,Europe
-35,Team Bald Reborn,Europe
-36,Team Liquid,Europe
-37,Team Secret,Europe
-38,Tundra Esports,Europe
-39,BetBoom Team,CIS
-40,cybercats,CIS
-41,HellRaisers,CIS
-42,HYDRA,CIS
-43,Magic Hands,CIS
-44,Marlerino eSports,CIS
-45,Mind Games,CIS
-46,Natus Vincere,CIS
-47,Nemiga Gaming,CIS
-48,One Move,CIS
-49,Pavaga Gaming,CIS
-50,PuckChamp,CIS
-51,Rune Eaters,CIS
-52,Team Empire Hope,CIS
-53,Virtus.pro,CIS
-54,Aster.Aries,China
-55,EHOME,China
-56,iG Vitality,China
-57,Invictus Gaming,China
-58,Knights,China
-59,LBZS,China
-60,PSG.LGD,China
-61,Royal Never Give Up,China
-62,Supernova,China
-63,Team Aster,China
-64,Vici Gaming,China
-65,Xtreme Gaming,China
-66,Ybb Gaming,China
-67,Army Geniuses,Southeast Asia
-68,Blacklist International,Southeast Asia
-69,Bleed Esports,Southeast Asia
-70,BOOM Esports,Southeast Asia
-71,Execration,Southeast Asia
-72,Fnatic,Southeast Asia
-73,Geek Slate,Southeast Asia
-74,Lilgun,Southeast Asia
-75,Neon Esports,Southeast Asia
-76,Polaris Esports,Southeast Asia
-77,Talon Esports,Southeast Asia
-78,Team SMG,Southeast Asia
-79,Yangon Galacticos,Southeast Asia
+team_id,team_name,team_region,team_winnings
+0,5RATFORCESTAFF,North America,0
+1,ALPHA,North America,0
+2,Arkosh Gaming,North America,0
+3,B8,North America,0
+4,felt,North America,0
+5,nouns,North America,0
+6,Shopify Rebellion,North America,0
+7,Team DogChamp,North America,0
+8,The Cut,North America,0
+9,Thiuth Gaming,North America,0
+10,TSM,North America,0
+11,Wildcard Gaming,North America,0
+12,Alliance.LATAM,South America,0
+13,Balrogs,South America,0
+14,beastcoast,South America,0
+15,Dreamers Esports,South America,0
+16,Evil Geniuses,South America,0
+17,Infamous,South America,0
+18,Infinity,South America,0
+19,Keyd Stars,South America,0
+20,Lava,South America,0
+21,Mad Kings,South America,0
+22,Ravens,South America,0
+23,Thunder Awaken,South America,0
+24,Vicious Gaming,South America,0
+25,Alliance,Europe,0
+26,D2 Hustlers,Europe,0
+27,Entity,Europe,0
+28,Gaimin Gladiators,Europe,0
+29,Into The Breach,Europe,0
+30,IVY,Europe,0
+31,Level UP,Europe,0
+32,Monaspa,Europe,0
+33,Nigma Galaxy,Europe,0
+34,OG,Europe,0
+35,Team Bald Reborn,Europe,0
+36,Team Liquid,Europe,0
+37,Team Secret,Europe,0
+38,Tundra Esports,Europe,0
+39,BetBoom Team,CIS,0
+40,cybercats,CIS,0
+41,HellRaisers,CIS,0
+42,HYDRA,CIS,0
+43,Magic Hands,CIS,0
+44,Marlerino eSports,CIS,0
+45,Mind Games,CIS,0
+46,Natus Vincere,CIS,0
+47,Nemiga Gaming,CIS,0
+48,One Move,CIS,0
+49,Pavaga Gaming,CIS,0
+50,PuckChamp,CIS,0
+51,Rune Eaters,CIS,0
+52,Team Empire Hope,CIS,0
+53,Virtus.pro,CIS,0
+54,Aster.Aries,China,0
+55,EHOME,China,0
+56,iG Vitality,China,0
+57,Invictus Gaming,China,0
+58,Knights,China,0
+59,LBZS,China,0
+60,PSG.LGD,China,0
+61,Royal Never Give Up,China,0
+62,Supernova,China,0
+63,Team Aster,China,0
+64,Vici Gaming,China,0
+65,Xtreme Gaming,China,0
+66,Ybb Gaming,China,0
+67,Army Geniuses,Southeast Asia,0
+68,Blacklist International,Southeast Asia,0
+69,Bleed Esports,Southeast Asia,0
+70,BOOM Esports,Southeast Asia,0
+71,Execration,Southeast Asia,0
+72,Fnatic,Southeast Asia,0
+73,Geek Slate,Southeast Asia,0
+74,Lilgun,Southeast Asia,0
+75,Neon Esports,Southeast Asia,0
+76,Polaris Esports,Southeast Asia,0
+77,Talon Esports,Southeast Asia,0
+78,Team SMG,Southeast Asia,0
+79,Yangon Galacticos,Southeast Asia,0

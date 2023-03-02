@@ -11,14 +11,14 @@ hero_stats = pd.read_csv("data/hero_stats.csv")
 # TODO fix hero_stats index (the script goes out of bounds when selecting a random hero SOMETIMES (index 119))
 
 # a function to create random match data. it accepts 2 arrays of player ids. it returns a list of 10 SinglePerformance objects. The hero ids are randomly selected from the list of heroes, and if a hero has already been chosen, choose a new one. The stats are generated based on the hero values in hero_stats.
-def create_random_match(players1, players2):
+def create_random_match(players1, players2, match_id):
     # drop players if there are more than 5
     if len(players1) > 5:
         players1 = players1[:5]
     if len(players2) > 5:
         players2 = players2[:5]
 
-    match_id = random.randint(100000, 999999)
+    # match_id = random.randint(100000, 999999)
     performances = []
     for player in players1:
         # select a random hero
@@ -199,6 +199,7 @@ def main():
 
     # create a dataframe of random matches
     random_matches = pd.DataFrame()
+    match_ids = []
     for i in range(10):
         random_matches = random_matches.append(
             create_random_match_data(team_names, team_dataframes_5)

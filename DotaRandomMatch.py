@@ -3,6 +3,8 @@ import numpy as np
 import random
 from SinglePerformance import SinglePerformance
 
+# FIXME: need to get the correct data from the database (i've changed it post insert)
+
 dota_players = pd.read_csv("data/dota_players.csv")
 dota_teams = pd.read_csv("data/dota_teams.csv")
 dota_heroes = pd.read_csv("data/dota_heroes.csv")
@@ -174,7 +176,7 @@ def assemble_team_data():
 
 
 # a function to select 2 random teams from team_names, then create a random match between their players
-def create_random_match_data(t_n, t_d_5):
+def create_random_match_data(t_n, t_d_5, match_id):
     # select 2 random teams
     team1 = random.choice(t_n)
     team2 = random.choice(t_n)
@@ -183,7 +185,7 @@ def create_random_match_data(t_n, t_d_5):
 
     # create a random match between the 2 teams
     randommatch = create_random_match(
-        t_d_5[team1]["p_id"].values, t_d_5[team2]["p_id"].values
+        t_d_5[team1]["p_id"].values, t_d_5[team2]["p_id"].values, match_id
     )
 
     return randommatch
@@ -199,10 +201,10 @@ def main():
 
     # create a dataframe of random matches
     random_matches = pd.DataFrame()
-    match_ids = []
-    for i in range(10):
+    match_ids = np.arange(1, 11)
+    for i in range(len(match_ids)):
         random_matches = random_matches.append(
-            create_random_match_data(team_names, team_dataframes_5)
+            create_random_match_data(team_names, team_dataframes_5, match_ids[i])
         )
 
     # write the random matches to a csv file

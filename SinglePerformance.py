@@ -17,6 +17,7 @@ class SinglePerformance:
         hero_healing,
         level,
         win,
+        team_id,
     ):
         self.match_id = match_id
         self.player_id = player_id
@@ -33,6 +34,7 @@ class SinglePerformance:
         self.hero_healing = hero_healing
         self.level = level
         self.win = win
+        self.team_id = team_id
 
     def get_info(self):
         return {
@@ -51,4 +53,5 @@ class SinglePerformance:
             "g_hero_healing": self.hero_healing,
             "g_level": self.level,
             "g_win": self.win,
+            "team_id": self.team_id,
         }

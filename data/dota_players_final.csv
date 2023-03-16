@@ -1,0 +1,378 @@
+p_id,Gamer_ID,name,country,Region,team_name,role,team_id,rank
+1,dnm,David Cossio,United States,North America,5RATFORCESTAFF,Carry,1,0
+2,Speeed,Paul Bocchicchio,United States,North America,5RATFORCESTAFF,Offlaner,1,264
+3,Kitzz,Francis Arriola,United States,North America,5RATFORCESTAFF,Solo Middle,1,122
+4,CTOMAHEH1,Nikolay Kalchev,Bulgaria,Europe,5RATFORCESTAFF,Support,1,144
+5,albinozebra1,Matthew Conley,United States,North America,5RATFORCESTAFF,Support,1,250
+6,charlie,Charlie Arat,Sweden,Europe,Alliance,Carry,26,214
+7,Loda,Jonathan Emanuel Berg,Sweden,Europe,Alliance,Coach,26,164
+8,s4,Gustav Magnusson,Sweden,Europe,Alliance,Offlaner,26,129
+9,ChYuan,Ng Kee Chyuan,Malaysia,Southeast Asia,Alliance,Solo Middle,26,36
+10,ponlo,Remus Goh Zhi Xian,Singapore,Southeast Asia,Alliance,Support,26,20
+11,Handsken,Simon Rasmus Haag,Sweden,Europe,Alliance,Support,26,228
+12,Lumière,Edward Guillen Valencia,Peru,South America,Alliance.LATAM,Carry,13,170
+13,Vitaly,Pablo Cesar Angulo Roman,Peru,South America,Alliance.LATAM,Offlaner,13,362
+14,4nalog,João Gabriel Giannini,Brazil,South America,Alliance.LATAM,Solo Middle,13,140
+15,Thiolicor,Thiago de Oliveira Cordeiro,Brazil,South America,Alliance.LATAM,Support,13,94
+16,Gardick,Brayan Antony López Cárdenas,Peru,South America,Alliance.LATAM,Support,13,245
+17,Rises,Diego Nicolás Ortas Rodríguez,Uruguay,South America,ALPHA,Carry,2,270
+18,Monster,Steven Noel,United States,North America,ALPHA,Offlaner,2,367
+19,BlackSoul,Josue Ronald Ticona Aliendre,Bolivia,South America,ALPHA,Solo Middle,2,68
+20,wij,Nicolás Moreno,Argentina,South America,ALPHA,Support,2,1
+21,Yadomi,Junior Reyes Rimari,Peru,South America,ALPHA,Support,2,341
+22,monkeys-forever,Jaron Clinton,United States,North America,Arkosh Gaming,Offlaner,3,258
+23,Xcalibur,Steve Ye,Sweden,Europe,Arkosh Gaming,Solo Middle,3,95
+24,Febby,Kim Yong-min,South Korea,Other,Arkosh Gaming,Support,3,40
+25,Zfreek,Zakari Freedman,United States,North America,Arkosh Gaming,Support,3,205
+26,inYourdreaM,Muhammad Rizky,Indonesia,Southeast Asia,Army Geniuses,Carry,68,134
+27,Yowe,Yuri Dave Pacaña,Philippines,Southeast Asia,Army Geniuses,Carry,68,28
+28,Clairvoyance,Aaron Kim,Canada,North America,Army Geniuses,Coach,68,63
+29,Koala,Farand Kowara,Indonesia,Southeast Asia,Army Geniuses,Coach,68,145
+30,db-,Daud Budiawan,Indonesia,Southeast Asia,Army Geniuses,Offlaner,68,242
+31,Jhocam,Tri Kuncoro,Indonesia,Southeast Asia,Army Geniuses,Support,68,202
+32,Varizh,Rizki Varizh,Indonesia,Southeast Asia,Army Geniuses,Support,68,23
+33,Ulu,Wang Jiakai,China,China,Aster.Aries,Carry,55,171
+34,86,Chen Yuxuan,China,China,Aster.Aries,Coach,55,168
+35,Op,Ou Peng,China,China,Aster.Aries,Coach,55,178
+36,生死,Xiao Yihu,China,China,Aster.Aries,Offlaner,55,143
+37,White丶Album,Liu Yuhao,China,China,Aster.Aries,Solo Middle,55,281
+38,RedPanda,Ru Zhihao,China,China,Aster.Aries,Support,55,76
+39,TK,He Boyi,China,China,Aster.Aries,Support,55,155
+40,StoneBank,Denis Korzh,Ukraine,Europe,B8,Carry,4,330
+41,Funn1k,Glib Lipatnikov,Ukraine,Europe,B8,Offlaner,4,311
+42,Dendi,Danil Ishutin,Ukraine,Europe,B8,Solo Middle,4,131
+43,MoOz,Joel Mori Ozambela,Peru,South America,B8,Support,4,21
+44,Lodine,Oleg Kvasha,Ukraine,Europe,B8,Support,4,133
+45,Ñengo,José Luis Laura,Peru,South America,Balrogs,Solo Middle,14,220
+46,Dark_Demon,Diego Mathias Huamán,Peru,South America,Balrogs,Support,14,138
+47,K1,Héctor Antonio Rodríguez,Peru,South America,beastcoast,Carry,15,91
+48,Raykill,Eduardo Nuñez,Venezuela,South America,beastcoast,Coach,15,48
+49,Sacred,Rafael Hinostroza Yonatan,Peru,South America,beastcoast,Offlaner,15,179
+50,Valqui,Thomas Jaulis Romero,Peru,South America,beastcoast,Offlaner,15,199
+51,DarkMago,Herrera Martínez Oswaldo Gonzalo,Peru,South America,beastcoast,Solo Middle,15,27
+52,Scofield,Elvis De la Cruz Peña,Peru,South America,beastcoast,Support,15,343
+53,StingeR,Steven Edwin Vargas Mamani,Peru,South America,beastcoast,Support,15,304
+54,Pure,Ivan Moskalenko,Russia,Europe,BetBoom Team,Carry,40,297
+55,boo1k,Anatoly Ivanov,Russia,Europe,BetBoom Team,Coach,40,43
+56,Nightfall,Egor Grigorenko,Russia,Europe,BetBoom Team,Offlaner,40,369
+57,gpk,Danil Skutin,Russia,Europe,BetBoom Team,Solo Middle,40,334
+58,Save-,Vitalie Melnic,Moldova,Europe,BetBoom Team,Support,40,306
+59,TORONTOTOKYO,Alexander Khertek,Russia,Europe,BetBoom Team,Support,40,195
+60,Raven,Marc Polo Luis Fausto,Philippines,Southeast Asia,Blacklist International,Carry,69,247
+61,Kuku,Carlo Palad,Philippines,Southeast Asia,Blacklist International,Offlaner,69,185
+62,Karl,Karl Matthew Baldovino,Philippines,Southeast Asia,Blacklist International,Solo Middle,69,45
+63,eyyou,Nico Barcelon,Philippines,Southeast Asia,Blacklist International,Support,69,364
+64,TIMS,Timothy John Randrup,Philippines,Southeast Asia,Blacklist International,Support,69,218
+65,JaCkky,Souliya Khoomphetsavong,Laos,Southeast Asia,Bleed Esports,Carry,70,80
+66,Forev,Lee Sang-don,South Korea,Other,Bleed Esports,Coach,70,289
+67,Masaros,Natthaphon Ouanphakdee,Thailand,Southeast Asia,Bleed Esports,Offlaner,70,146
+68,Kordan,Teng Tjin Yao,Singapore,Southeast Asia,Bleed Esports,Solo Middle,70,348
+69,PlayHard,Prieme Ejay Banquil,Philippines,Southeast Asia,Bleed Esports,Support,70,192
+70,DuBu,Kim Doo-young,South Korea,Other,Bleed Esports,Support,70,212
+71,Natsumi-,John Anthony Vargas,Philippines,Southeast Asia,BOOM Esports,Carry,71,92
+72,Mushi,Chai Yee Fung,Malaysia,Southeast Asia,BOOM Esports,Coach,71,151
+73,Fbz,Saieful Ilham,Indonesia,Southeast Asia,BOOM Esports,Offlaner,71,66
+74,Yopaj,Erin Jasper Ferrer,Philippines,Southeast Asia,BOOM Esports,Solo Middle,71,351
+75,Xepher,Kenny Deo,Indonesia,Southeast Asia,BOOM Esports,Support,71,22
+76,xNova,Yap Jian Wei,Malaysia,Southeast Asia,BOOM Esports,Support,71,24
+77,alberkaaa,Albert Chernoivanov,Russia,Europe,cybercats,Carry,41,4
+78,Fervian,Evgeniy Aksyonov,Russia,Europe,cybercats,Coach,41,175
+79,Forcemajor,Maksim Meretskii,Russia,Europe,cybercats,Support,41,279
+80,Shad,Indji Lub,Netherlands,Europe,D2 Hustlers,Carry,27,284
+81,Davai Lama,Cedric Deckmyn,Belgium,Europe,D2 Hustlers,Offlaner,27,150
+82,Flash,Niamtu Angel,Romania,Europe,D2 Hustlers,Support,27,156
+83,Alexxo,Aleksandar Diklić,Serbia,Europe,D2 Hustlers,Support,27,186
+84,Adrian,Adrian Briceño Huancas,Peru,South America,Dreamers Esports,Carry,16,10
+85,Cucahook,José Antonio Espinoza Poccori,Peru,South America,Dreamers Esports,Carry,16,99
+86,Drakeel,Isaac Zavaleta,Peru,South America,Dreamers Esports,Offlaner,16,321
+87,Jeimari,Jeremy Ruiz Aguinaga,Peru,South America,Dreamers Esports,Solo Middle,16,336
+88,Zxca,Amilkar Fhelipe Layme Bonifacio,Peru,South America,Dreamers Esports,Support,16,32
+89,圣子华炼,Zhong Liushua,China,China,EHOME,Carry,56,363
+90,mks,Wong Sim An,Malaysia,Southeast Asia,EHOME,Carry,56,113
+91,X1aOyU,Lee Qian Yu,Malaysia,Southeast Asia,EHOME,Offlaner,56,163
+92,yChen,Pan Shuaifang,China,China,EHOME,Solo Middle,56,62
+93,Lww,Liu Weiwei,China,China,EHOME,Support,56,109
+94,Salad,Tang Xiaolei,China,China,EHOME,Support,56,295
+95,watson,Alimzhan Islambekov,Kazakhstan,Europe,Entity,Carry,28,349
+96,MeTTpuM,Daniil Gilev,Russia,Europe,Entity,Coach,28,7
+97,Tobi,Tobias Buchner,Austria,Europe,Entity,Offlaner,28,184
+98,Stormstormer,Daniel Schoetzau,Germany,Europe,Entity,Solo Middle,28,15
+99,Fishman,Dzmitry Palishchuk,Belarus,Europe,Entity,Support,28,243
+100,Kataomi`,Vladislav Semenov,Russia,Europe,Entity,Support,28,331
+101,Pakazs,Crhistian Antony Savina Casanova,Peru,South America,Evil Geniuses,Carry,17,207
+102,Vintage,Juan David Angulo Nicho,Peru,South America,Evil Geniuses,Coach,17,41
+103,Wisper,Adrián Céspedes Dobles,Bolivia,South America,Evil Geniuses,Offlaner,17,65
+104,Chris Luck,Jean Pierre Gonzales Salazar,Peru,South America,Evil Geniuses,Solo Middle,17,159
+105,Matthew,Farith Jeafehe Puente Huamancaja,Peru,South America,Evil Geniuses,Support,17,308
+106,Pandaboo,Jose Leonardo Padilla Hernandez,Peru,South America,Evil Geniuses,Support,17,278
+107,Palos,Jinn Marrey P. Lamatao,Philippines,Southeast Asia,Execration,Carry,72,100
+108,Kim0,Kimuel Borromeo Rodis,Philippines,Southeast Asia,Execration,Coach,72,269
+109,March,Park Tae-won,South Korea,Other,Execration,Coach,72,288
+110,Tino,Justine Ryan Evangelista Grimaldo,Philippines,Southeast Asia,Execration,Offlaner,72,246
+111,Bob,Mark Anthony A. Urbina,Philippines,Southeast Asia,Execration,Solo Middle,72,310
+112,BDz,Juan Carlo Chua Manalo,Philippines,Southeast Asia,Execration,Support,72,53
+113,Shanks,Mark Jubert Redira,Philippines,Southeast Asia,Execration,Support,72,70
+114,Berna,Bernardo David Rocca Alarcón,Peru,South America,felt,Carry,5,224
+115,Fayde,Victor Zuev,United States,North America,felt,Offlaner,5,272
+116,"solji;,",Boris Khundziya,Russia,Europe,felt,Solo Middle,5,324
+117,Chen,Chen Yi,United States,North America,felt,Support,5,368
+118,Shoe,Mykyta Zagrebin,United States,North America,felt,Support,5,47
+119,Gabbi,Kim Villafuerte Santos,Philippines,Southeast Asia,Fnatic,Carry,73,374
+120,kpii,Damien Chok Sau-jing,Australia,Other,Fnatic,Offlaner,73,271
+121,Armel,Armel Paul Luna Tabios,Philippines,Southeast Asia,Fnatic,Solo Middle,73,204
+122,DJ,Djardel Jicko B. Mampusti,Philippines,Southeast Asia,Fnatic,Support,73,64
+123,Jaunuel,Jaunuel Arcilla,Philippines,Southeast Asia,Fnatic,Support,73,161
+124,dyrachyo,Anton Shkredov,Russia,Europe,Gaimin Gladiators,Carry,29,263
+125,Ace,Marcus Folke Hoelgaard Christensen,Denmark,Europe,Gaimin Gladiators,Offlaner,29,355
+126,Quinn,Quinn Callahan,United States,North America,Gaimin Gladiators,Solo Middle,29,282
+127,tOfu,Erik Engel,Germany,Europe,Gaimin Gladiators,Support,29,209
+128,Seleri,Melchior Hillenkamp,Netherlands,Europe,Gaimin Gladiators,Support,29,303
+129,skem,Rolen Andrei Gabriel Ong,Philippines,Southeast Asia,Geek Slate,Carry,74,11
+130,Force,Nikko Bilocura,Philippines,Southeast Asia,Geek Slate,Offlaner,74,280
+131,Kokz,Joshua H. Maraño,Philippines,Southeast Asia,Geek Slate,Solo Middle,74,335
+132,Roddgeee,Roger Tan Boon Thye,Malaysia,Southeast Asia,Geek Slate,Support,74,213
+133,NARMAN,Ravdan Narmandakh,Mongolia,Other,Geek Slate,Support,74,291
+134,Daxak,Nikita Kuzmin,Russia,Europe,HellRaisers,Carry,42,106
+135,MieRo`,Matvey Vasyunin,Russia,Europe,HellRaisers,Offlaner,42,71
+136,depressed kid,Gleb Zyryanov,Russia,Europe,HellRaisers,Solo Middle,42,52
+137,Antares,Vladislav Kertman,Russia,Europe,HellRaisers,Support,42,59
+138,Solo,Alexey Berezin,Russia,Europe,HellRaisers,Support,42,357
+139,dream`,Kıyalbek Tayirov,Kyrgyzstan,CIS,HYDRA,Carry,43,327
+140,TheHeartlessKing,Maxim Fadeev,Ukraine,Europe,HYDRA,Coach,43,354
+141,Cloud,Alexander Zakharov,Russia,Europe,HYDRA,Offlaner,43,338
+142,Worick,Vitalij Brezgin,Russia,Europe,HYDRA,Solo Middle,43,262
+143,HappyDyurara,Sergey Horonzhiy,Belarus,Europe,HYDRA,Support,43,132
+144,doodle,Lin Zikai,China,China,iG Vitality,Carry,57,266
+145,ButterflyEffect,Ni Weijie,China,China,iG Vitality,Solo Middle,57,222
+146,Summer,Tang Kaiwen,China,China,iG Vitality,Solo Middle,57,232
+147,sj,Wang Sijie,China,China,iG Vitality,Support,57,301
+148,Mnz,Alonso León,Peru,South America,Infamous,Carry,18,165
+149,FalcoStyle,Huester Valenzuela,Peru,South America,Infamous,Coach,18,345
+150,Oscar,Oscar David Chavez Jimenez,Bolivia,South America,Infamous,Offlaner,18,6
+151,SLATEM$,Jordan Pascasio Vega,Peru,South America,Infamous,Solo Middle,18,169
+152,sl4d1n-,Alexis Cepeda Sitl Sitl,Ecuador,South America,Infamous,Support,18,292
+153,Mjz,Romel Quinteros,Peru,South America,Infamous,Support,18,176
+154,Papita,Mariano Caneda,Argentina,South America,Infinity,Coach,19,373
+155,Frank,Frank Alberto Arias Ayala,Peru,South America,Infinity,Offlaner,19,249
+156,Leostyle-,Leonardo Sifuentes,Peru,South America,Infinity,Solo Middle,19,206
+157,Genek,Moises Asencios Santillan,Peru,South America,Infinity,Support,19,42
+158,Prada,Sergio Toribio Orihuela,Peru,South America,Infinity,Support,19,67
+159,Otaker,Roman Aliullov,Non-representing,Other,Into The Breach,Carry,30,286
+160,MiLAN,Milan Kozomara,Bosnia and Herzegovina,Europe,Into The Breach,Coach,30,188
+161,Rajjix,Roy al Rajji,Lebanon,Other,Into The Breach,Offlaner,30,90
+162,Xibbe,Andreas Ragnemalm,Sweden,Europe,Into The Breach,Offlaner,30,87
+163,Supream^,Ondřej Štarha,Czechia,Other,Into The Breach,Solo Middle,30,183
+164,Immersion,Aleksandr Khmelevskoi,Russia,Europe,Into The Breach,Support,30,111
+165,Kidaro,Ivan Bondarev,Ukraine,Europe,Into The Breach,Support,30,219
+166,Emo,Zhou Yi,China,China,Invictus Gaming,Carry,58,83
+167,super,Su Peng,China,China,Invictus Gaming,Coach,58,173
+168,Irving,Li Jian,China,China,Invictus Gaming,Offlaner,58,305
+169,Dust,Zhou Shiyuan,China,China,Invictus Gaming,Solo Middle,58,96
+170,qyqx,Cui Chenyang,China,China,Invictus Gaming,Support,58,60
+171,poloson,Wilson Koh Chin Wei,Singapore,Southeast Asia,Invictus Gaming,Support,58,277
+172,pio65,Alexandr Zalivako,Belarus,Europe,IVY,Carry,31,241
+173,OwnedMe,Mathias Huynh,Denmark,Europe,IVY,Offlaner,31,130
+174,Mo13ei,Fabian Knehr,Germany,Europe,IVY,Solo Middle,31,44
+175,jmn,Jonas Vincent Matz,Germany,Europe,IVY,Support,31,261
+176,Qupe,Jan Tinnemeier,Germany,Europe,IVY,Support,31,274
+177,Costabile,Guilherme Silva Costábile,Brazil,South America,Keyd Stars,Carry,20,112
+178,DFlash,Bruno de Souza Oliveira,Brazil,South America,Keyd Stars,Coach,20,77
+179,tavo,Otávio Gabriel Cerqueira Silva,Brazil,South America,Keyd Stars,Offlaner,20,215
+180,4dr,Adriano de Paula Machado,Brazil,South America,Keyd Stars,Solo Middle,20,35
+181,Kingrd,Danylo Nascimento,Brazil,South America,Keyd Stars,Support,20,148
+182,KJ,Matheus Santos Jungles Diniz,Brazil,South America,Keyd Stars,Support,20,316
+183,eGo,Luo Bin,China,China,Knights,Carry,59,46
+184,Flyby,Su Lei,China,China,Knights,Offlaner,59,84
+185,AlaCrity,Vincent Hiew Teck Yoong,Malaysia,Southeast Asia,Knights,Solo Middle,59,181
+186,XCJ,Xiao Chaojian,China,China,Knights,Support,59,296
+187,FelixCiaoBa,Chong Wei Lun,Malaysia,Southeast Asia,Knights,Support,59,101
+188,Fonte,Lai Xingyu,China,China,LBZS,Carry,60,346
+189,Tzy丶,Jiang Bo,China,China,LBZS,Offlaner,60,320
+190,pp,Jin Peng,China,China,LBZS,Solo Middle,60,153
+191,guoguo,Zhan Yaoyang,China,China,LBZS,Support,60,268
+192,Yp,Yang Yuepeng,China,China,LBZS,Support,60,149
+193,lowskill,Tamás Kaszás,Hungary,Europe,Level UP,Carry,32,189
+194,BoraNija,Duško Boranijašević,Serbia,Europe,Level UP,Solo Middle,32,211
+195,Velheor,Fedor Rusihin,Russia,Europe,Level UP,Support,32,198
+196,eleven,Munkh-Erdene Battsooj,Mongolia,Other,Lilgun,Offlaner,75,139
+197,423,Altanginj Bilguun,Mongolia,Other,Lilgun,Solo Middle,75,356
+198,Ace12,Batbayasgalan Narankhand,Mongolia,Other,Lilgun,Support,75,299
+199,RedMonster,Jhon Albert Mamani,Peru,South America,Mad Kings,Coach,22,225
+200,ArzenT,Juan Antonio Arteaga Beltran,Peru,South America,Mad Kings,Offlaner,22,328
+201,JachiTo,Luis Lanazca,Peru,South America,Mad Kings,Solo Middle,22,57
+202,Smoker,Pablo Yarlequè,Peru,South America,Mad Kings,Support,22,359
+203,BarabaNN,Sergey Posvyashchenniy,Russia,Europe,Magic Hands,Carry,44,26
+204,Gatciy,Azamat Gatciev,Russia,Europe,Magic Hands,Support,44,104
+205,fn,Rostislav Lozovoi,Ukraine,Europe,Mind Games,Solo Middle,46,75
+206,Nande,Lasha Narsia,Georgia,Europe,Monaspa,Carry,33,142
+207,SkyLark,Kharis Zafeiriou,Greece,Europe,Monaspa,Offlaner,33,229
+208,grizine,Nenad Lukic,Serbia,Europe,Monaspa,Offlaner,33,162
+209,W1sh-,Irakli Peranidze,Georgia,Europe,Monaspa,Solo Middle,33,340
+210,dEsire,Sakis Kartsampas,Greece,Europe,Monaspa,Support,33,190
+211,SsaSpartan,Giorgos Giannakopoulos,Greece,Europe,Monaspa,Support,33,154
+212,V-Tune,Alik Vorobey,Ukraine,Europe,Natus Vincere,Carry,47,323
+213,Artstyle,Ivan Antonov,Ukraine,Europe,Natus Vincere,Coach,47,51
+214,laise,Vladislav Lais,Ukraine,Europe,Natus Vincere,Offlaner,47,121
+215,Nicky`Cool,Nikita Ostakhov,Kazakhstan,Europe,Natus Vincere,Solo Middle,47,61
+216,Malady,Arman Orazbayev,Kazakhstan,Europe,Natus Vincere,Support,47,141
+217,swedenstrong,Georgii Zainalabidov,Non-representing,Other,Natus Vincere,Support,47,257
+218,Kiritych,Ilya Ulyanov,Russia,Europe,Nemiga Gaming,Carry,48,337
+219,j4,Alexei Lipai,Belarus,Europe,Nemiga Gaming,Coach,48,314
+220,Vazya,Ivan German,Russia,Europe,Nemiga Gaming,Offlaner,48,30
+221,Malr1ne,Stanislav Potorak,Russia,Europe,Nemiga Gaming,Solo Middle,48,237
+222,Hellscream,Kirill Lagutik,Belarus,Europe,Nemiga Gaming,Support,48,217
+223,so bad,Vitaly Oshmankevich,Belarus,Europe,Nemiga Gaming,Support,48,114
+224,ChuaN,Wong Hock Chuan,Malaysia,Southeast Asia,Neon Esports,Coach,76,353
+225,Enryu,Michael Roi T. Ladines,Philippines,Southeast Asia,Neon Esports,Offlaner,76,108
+226,Ken,Argle Ken C. Llesis,Philippines,Southeast Asia,Neon Esports,Solo Middle,76,339
+227,ATF,Ammar Al-Assaf,Jordan,Other,Nigma Galaxy,Carry,34,29
+228,Miracle-,Amer Al-Barkawi,Jordan,Other,Nigma Galaxy,Carry,34,152
+229,ImmortalFaith,Daniel Moza,Romania,Europe,Nigma Galaxy,Coach,34,9
+230,MinD_ContRoL,Ivan Borislavov Ivanov,Bulgaria,Europe,Nigma Galaxy,Offlaner,34,118
+231,SumaiL,Syed Sumail Hassan,Pakistan,Other,Nigma Galaxy,Solo Middle,34,315
+232,Attacker,Mohammed Almheiri,United Arab Emirates,Other,Nigma Galaxy,Solo Middle,34,157
+233,KuroKy,Kuro Salehi Takhasomi,Germany,Europe,Nigma Galaxy,Support,34,2
+234,GH,Maroun Merhej,Lebanon,Other,Nigma Galaxy,Support,34,127
+235,Yamsun,Luke Wang,United States,North America,nouns,Carry,6,73
+236,Moo,David William Hull,United States,North America,nouns,Offlaner,6,124
+237,Gunnar,Nicolas Lopez,United States,North America,nouns,Solo Middle,6,12
+238,LESLÃO,Rodrigo Lelis Santos,Brazil,South America,nouns,Support,6,236
+239,Husky,Jacob Fifik,United States,North America,nouns,Support,6,375
+240,Yuragi,Artem Golubiev,Ukraine,Europe,OG,Carry,35,85
+241,Chuvash,Evgenii Makarov,Non-representing,Other,OG,Coach,35,160
+242,DM,Dmitry Dorokhin,Russia,Europe,OG,Offlaner,35,203
+243,bzm,Bozhidar Bogdanov,Bulgaria,Europe,OG,Solo Middle,35,313
+244,Taiga,Tommy Le,Norway,Europe,OG,Support,35,123
+245,Misha,Mikhail Agatov,Russia,Europe,OG,Support,35,254
+246,Munkushi~,Nikita Chepurnykh,Russia,Europe,One Move,Carry,49,325
+247,G,Sergei Bragin,Russia,Europe,One Move,Coach,49,102
+248,AfterLife,Vasilii Shishkin,Russia,Europe,One Move,Offlaner,49,216
+249,Ainkrad,Aleksey Diveevskiy,Belarus,Europe,One Move,Solo Middle,49,201
+250,pantomem,Nikita Balaganin,Belarus,Europe,One Move,Support,49,115
+251,Gilgir,Geogrii Svistunov,Russia,Europe,One Move,Support,49,182
+252,Bok,Jun B. Kanehara,Philippines,Southeast Asia,Polaris Esports,Offlaner,77,233
+253,Mac,Mc Nicholson Villanueva,Philippines,Southeast Asia,Polaris Esports,Solo Middle,77,147
+254,cml,Bryle Jacob D. Alvizo,Philippines,Southeast Asia,Polaris Esports,Support,77,158
+255,Jing,John Rey Yee Duyan,Philippines,Southeast Asia,Polaris Esports,Support,77,49
+256,Ame,Wang Chunyu,China,China,PSG.LGD,Carry,61,252
+257,shiro,Guo Xuanang,China,China,PSG.LGD,Carry,61,177
+258,xiao8,Zhang Ning,China,China,PSG.LGD,Coach,61,98
+259,项羽,Li Longwu,China,China,PSG.LGD,Offlaner,61,120
+260,NothingToSay,Cheng Jin Xiang,Malaysia,Southeast Asia,PSG.LGD,Solo Middle,61,197
+261,planet,Lin Hao,China,China,PSG.LGD,Support,61,172
+262,y`,Zhang Yiping,China,China,PSG.LGD,Support,61,365
+263,shigetsu,Maxim Popadinec,Ukraine,Europe,PuckChamp,Carry,51,126
+264,Malik,Abdimalik Sailau,Kazakhstan,Europe,PuckChamp,Offlaner,51,116
+265,young G,Nikita Bochko,Belarus,Europe,PuckChamp,Solo Middle,51,3
+266,Danial,Danial Alibaev,Kazakhstan,Europe,PuckChamp,Support,51,18
+267,Hduo,Ilya Deriglazov,Ukraine,Europe,PuckChamp,Support,51,285
+268,Benjaz,Benjamín Lanao Barrios,Peru,South America,Ravens,Offlaner,23,309
+269,Cara,Alejandro Guzmán Mendoza,Peru,South America,Ravens,Offlaner,23,107
+270,PiPi,Jeanpierre Valente Arroyo,Peru,South America,Ravens,Solo Middle,23,350
+271,Super,Xie Junhao,China,China,Royal Never Give Up,Coach,62,221
+272,Chalice,Yang Shenyi,China,China,Royal Never Give Up,Offlaner,62,39
+273,Somnus,Lu Yao,China,China,Royal Never Give Up,Solo Middle,62,8
+274,kaka,Hu Liangzhi,China,China,Royal Never Give Up,Support,62,16
+275,Arteezy,Artour Babaev,Canada,North America,Shopify Rebellion,Carry,7,210
+276,BuLba,Kanishka Sosale,United States,North America,Shopify Rebellion,Coach,7,307
+277,SabeRLight-,Jonáš Volek,Czechia,Other,Shopify Rebellion,Offlaner,7,322
+278,Abed,Abed Azel L. Yusop,Philippines,Southeast Asia,Shopify Rebellion,Solo Middle,7,196
+279,Cr1t-,Andreas Franck Nielsen,Denmark,Europe,Shopify Rebellion,Support,7,128
+280,Fly,Tal Aizik,Israel,Other,Shopify Rebellion,Support,7,298
+281,23savage,Nuengnara Teeramahanon,Thailand,Southeast Asia,Talon Esports,Carry,78,251
+282,SunBhie,Lee Jeong-jae,South Korea,Other,Talon Esports,Coach,78,13
+283,Jabz,Anucha Jirawong,Thailand,Southeast Asia,Talon Esports,Offlaner,78,14
+284,Mikoto,Rafli Fathur Rahman,Indonesia,Southeast Asia,Talon Esports,Solo Middle,78,86
+285,Oli,Chan Chon Kien,Malaysia,Southeast Asia,Talon Esports,Support,78,174
+286,Q,Worawit Mekchai,Thailand,Southeast Asia,Talon Esports,Support,78,344
+287,Monet,Du Peng,China,China,Team Aster,Carry,64,72
+288,rOtK,Bai Fan,China,China,Team Aster,Coach,64,370
+289,Xxs,Lin Jing,China,China,Team Aster,Offlaner,64,273
+290,一,Zhai Jingkai,China,China,Team Aster,Solo Middle,64,287
+291,BoBoKa,Ye Zhibiao,China,China,Team Aster,Support,64,302
+292,皮球,Yu Yajun,China,China,Team Aster,Support,64,193
+293,Gorgc,Janne Stefanovski,Sweden,Europe,Team Bald Reborn,Carry,36,88
+294,w33,Aliwi Omar,Romania,Europe,Team Bald Reborn,Solo Middle,36,110
+295,Bengan,Jonathan Hansson,Sweden,Europe,Team Bald Reborn,Support,36,78
+296,Pablo,Axel Källman,Sweden,Europe,Team Bald Reborn,Support,36,5
+297,Yuma,Yuma Langlet,Nicaragua,Other,Team DogChamp,Carry,8,318
+298,yarin,Yarin Lugassi,Israel,Other,Team DogChamp,Support,8,82
+299,Bloody Nine,Daniel Foster,United States,North America,Team DogChamp,Support,8,200
+300,fozzy,Adel Zinnatullin,Russia,Europe,Team Empire Hope,Solo Middle,53,69
+301,Qojqva,Maximilian Bröcker,Germany,Europe,Team Liquid,Carry,37,119
+302,miCKe,Michael Vu,Sweden,Europe,Team Liquid,Carry,37,239
+303,zai,Ludwig Eric Wåhlberg,Sweden,Europe,Team Liquid,Offlaner,37,226
+304,Nisha,Michał Jankowski,Poland,Europe,Team Liquid,Solo Middle,37,166
+305,Jabbz,Mathis Friesel,Germany,Europe,Team Liquid,Support,37,358
+306,Boxi,Samuel Svahn,Sweden,Europe,Team Liquid,Support,37,238
+307,iNSaNiA,Aydin Sarkohi,Sweden,Europe,Team Liquid,Support,37,31
+308,Crystallis,Remco Arets,Netherlands,Europe,Team Secret,Carry,38,231
+309,Heen,Lee Seung Gon,South Korea,Other,Team Secret,Coach,38,256
+310,Resolut1on,Roman Fomynok,Ukraine,Europe,Team Secret,Offlaner,38,342
+311,BOOM,Miroslav Bičan,Czechia,Other,Team Secret,Solo Middle,38,97
+312,Puppey,Clement Ivanov,Estonia,Europe,Team Secret,Support,38,265
+313,YapzOr,Yazied Jaradat,Jordan,Other,Team Secret,Support,38,137
+314,Zayac,Baqyt Emiljanov,Kyrgyzstan,CIS,Team Secret,Support,38,208
+315,CDR,Lee Jia He,Malaysia,Southeast Asia,Team SMG,Carry,79,275
+316,ALWAYSWANNAFLY,Andrii Bondarenko,Ukraine,Europe,Team SMG,Coach,79,352
+317,MidOne,Yeik Nai Zheng,Malaysia,Southeast Asia,Team SMG,Offlaner,79,167
+318,Raging Potato,Ryan Jay Qui,Philippines,Southeast Asia,Team SMG,Offlaner,79,81
+319,Moon,Kam Boon Seng,Malaysia,Southeast Asia,Team SMG,Solo Middle,79,33
+320,ah fu,Tue Soon Chuan,Malaysia,Southeast Asia,Team SMG,Support,79,135
+321,Boomy,Marvin Salvador Gilos Rushton,Philippines,Southeast Asia,Team SMG,Support,79,235
+322,Scourge McDuck,Griffin Pappert,United States,North America,The Cut,Carry,9,105
+323,high_shaggy,Muhammad Saad Ali Ghaznavi,Canada,North America,The Cut,Solo Middle,9,19
+324,empyreaN,Ankit Aggarwal,United States,North America,The Cut,Support,9,276
+325,Save,Joseph Jacobson,United States,North America,The Cut,Support,9,248
+326,layme,Timur Magomedov,Russia,Europe,Thiuth Gaming,Carry,10,361
+327,esK,Jose Esau Perez Coronel,Mexico,Other,Thiuth Gaming,Solo Middle,10,333
+328,antoha,Anton Marchenko,Non-representing,Other,Thiuth Gaming,Support,10,312
+329,Smiling Knight,Aliaksei Svirydau,Belarus,Europe,Thunder Awaken,Carry,24,25
+330,LittleBoy,Mario Romero Valdivia,Peru,South America,Thunder Awaken,Offlaner,24,56
+331,Alone,Ricardo Ernesto Sanchez Fernandez,Peru,South America,Thunder Awaken,Solo Middle,24,294
+332,Michael-,Miguel Angel Choque Gomez,Bolivia,South America,Thunder Awaken,Support,24,89
+333,Accel,Cristian Neto Cruz Quispe,Peru,South America,Thunder Awaken,Support,24,326
+334,Timado,Enzo Gianoli O'Connor,Peru,South America,TSM,Carry,11,103
+335,MoonMeander,David Tan Boon Yang,Canada,North America,TSM,Coach,11,191
+336,kasane,Ilyas Gainullin,Russia,Europe,TSM,Offlaner,11,79
+337,Bryle,Jonathan Bryle Santos De Guia,Canada,North America,TSM,Solo Middle,11,74
+338,Whitemon,Matthew Filemon,Indonesia,Southeast Asia,TSM,Support,11,317
+339,Ari,Matthew Walker,United Kingdom,Europe,TSM,Support,11,38
+340,skiter,Oliver Lepko,Slovakia,Europe,Tundra Esports,Carry,39,290
+341,Aui_2000,Kurtis Daniel Ling,Canada,North America,Tundra Esports,Coach,39,283
+342,33,Neta Shapira,Israel,Other,Tundra Esports,Offlaner,39,259
+343,Nine,Leon Kirilin,Germany,Europe,Tundra Esports,Solo Middle,39,37
+344,Saksa,Martin Sazdov,North Macedonia,Other,Tundra Esports,Support,39,244
+345,Sneyking,Wu Jingjun,United States,North America,Tundra Esports,Support,39,329
+346,Erika,Yang Shaohan,China,China,Vici Gaming,Carry,65,371
+347,Fenrir,Lu Chao,China,China,Vici Gaming,Coach,65,376
+348,niu,Li Kongbo,China,China,Vici Gaming,Offlaner,65,360
+349,Setsu,Gao Zhenxiong,China,China,Vici Gaming,Solo Middle,65,187
+350,fy,Xu Linsen,China,China,Vici Gaming,Support,65,253
+351,Yang,Zhou Haiyang,China,China,Vici Gaming,Support,65,267
+352,krylat,Alexandr Krylatov,Russia,Europe,Virtus.pro,Carry,54,55
+353,Ahilles,Timur Kulmuhambetov,Russia,Europe,Virtus.pro,Coach,54,117
+354,Noticed,Evgeniy Ignatenko,Russia,Europe,Virtus.pro,Offlaner,54,58
+355,squad1x,Ilya Kuvaldin,Russia,Europe,Virtus.pro,Solo Middle,54,223
+356,Dukalis,Andrey Kuropatkin,Russia,Europe,Virtus.pro,Support,54,136
+357,illias,Illias Ganeev,Russia,Europe,Virtus.pro,Support,54,125
+358,sayuw,Oleg Kalenbet,Russia,Europe,Virtus.pro,Support,54,260
+359,.Ark,Yegor Zhabotinskii,Non-representing,Other,Wildcard Gaming,Carry,12,234
+360,Sunlight,Kirill Kachinsky,Belarus,Europe,Wildcard Gaming,Offlaner,12,240
+361,babitich,Vladimir Abelyan,Russia,Europe,Wildcard Gaming,Solo Middle,12,93
+362,FLee,Francis Lee,United States,North America,Wildcard Gaming,Support,12,230
+363,Sammyboy,Samuel Anderson,United States,North America,Wildcard Gaming,Support,12,377
+364,J,Wang Wenjun,China,China,Xtreme Gaming,Carry,66,319
+365,Ghost,Daniel Chan Kok Hong,Malaysia,Southeast Asia,Xtreme Gaming,Carry,66,300
+366,bLink,Zhou Yang,China,China,Xtreme Gaming,Coach,66,17
+367,Srf,Sun Runfa,China,China,Xtreme Gaming,Offlaner,66,366
+368,JT-,Thiay Jun Wen,Malaysia,Southeast Asia,Xtreme Gaming,Offlaner,66,347
+369,Paparazi灬,Zhang Chengjun,China,China,Xtreme Gaming,Solo Middle,66,180
+370,Dy,Ding Cong,China,China,Xtreme Gaming,Support,66,293
+371,Pyw,Xiong Jiahan,China,China,Xtreme Gaming,Support,66,227
+372,ShowTi,Aung Myat Soe,Myanmar,Southeast Asia,Yangon Galacticos,Offlaner,80,332
+373,Lou,Lou Zhen,China,China,Ybb Gaming,Carry,67,54
+374,Beyond,Xiang Zhenghong,China,China,Ybb Gaming,Offlaner,67,255
+375,7e,Huang Heming,China,China,Ybb Gaming,Solo Middle,67,194
+376,zzq,Zhang Ziqiang,China,China,Ybb Gaming,Support,67,372
+377,天命,Jiang An,China,China,Ybb Gaming,Support,67,50

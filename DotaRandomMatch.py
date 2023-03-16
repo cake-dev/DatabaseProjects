@@ -3,11 +3,9 @@ import numpy as np
 import random
 from SinglePerformance import SinglePerformance
 
-# FIXME: need to get the correct data from the database (i've changed it post insert)
-
-dota_players = pd.read_csv("data/dota_players.csv")
+dota_players = pd.read_csv("data/dota_players_final.csv")
 dota_teams = pd.read_csv("data/dota_teams.csv")
-dota_heroes = pd.read_csv("data/dota_heroes.csv")
+# dota_heroes = pd.read_csv("data/dota_heroes.csv")
 hero_stats = pd.read_csv("data/hero_stats.csv")
 
 # TODO fix hero_stats index (the script goes out of bounds when selecting a random hero SOMETIMES (index 119))
@@ -24,9 +22,9 @@ def create_random_match(players1, players2, match_id):
     performances = []
     for player in players1:
         # select a random hero
-        hero_id = random.choice(dota_heroes["HERO_ID"].values)
+        hero_id = random.choice(hero_stats["HERO_ID"].values) - 1
         while hero_id in [x.hero_id for x in performances]:
-            hero_id = random.choice(dota_heroes["HERO_ID"].values)
+            hero_id = random.choice(hero_stats["HERO_ID"].values) - 1
         kills = random.randint(
             hero_stats.loc[hero_id]["Kills_Min"], hero_stats.loc[hero_id]["Kills_Max"]
         )
@@ -61,13 +59,14 @@ def create_random_match(players1, players2, match_id):
         level = random.randint(
             hero_stats.loc[hero_id]["LVL_Min"], hero_stats.loc[hero_id]["LVL_Max"]
         )
+        team_id = dota_players.loc[player - 1]["team_id"]
         win = -1
 
         performances.append(
             SinglePerformance(
                 match_id,
                 player,
-                hero_id,
+                hero_id + 1,
                 kills,
                 deaths,
                 assists,
@@ -80,14 +79,15 @@ def create_random_match(players1, players2, match_id):
                 hero_healing,
                 level,
                 win,
+                team_id,
             )
         )
 
     for player in players2:
         # select a random hero
-        hero_id = random.choice(dota_heroes["HERO_ID"].values)
+        hero_id = random.choice(hero_stats["HERO_ID"].values) - 1
         while hero_id in [x.hero_id for x in performances]:
-            hero_id = random.choice(dota_heroes["HERO_ID"].values)
+            hero_id = random.choice(hero_stats["HERO_ID"].values) - 1
         kills = random.randint(
             hero_stats.loc[hero_id]["Kills_Min"], hero_stats.loc[hero_id]["Kills_Max"]
         )
@@ -122,13 +122,14 @@ def create_random_match(players1, players2, match_id):
         level = random.randint(
             hero_stats.loc[hero_id]["LVL_Min"], hero_stats.loc[hero_id]["LVL_Max"]
         )
+        team_id = dota_players.loc[player - 1]["team_id"]
         win = -1
 
         performances.append(
             SinglePerformance(
                 match_id,
                 player,
-                hero_id,
+                hero_id + 1,
                 kills,
                 deaths,
                 assists,
@@ -141,6 +142,7 @@ def create_random_match(players1, players2, match_id):
                 hero_healing,
                 level,
                 win,
+                team_id,
             )
         )
 
@@ -193,6 +195,9 @@ def create_random_match_data(t_n, t_d_5, match_id):
 
 # main method
 def main():
+
+    MATCHES_TO_CREATE = 1001
+
     # get a dataframe of all teams with at least 5 players
     team_dataframes_5 = assemble_team_data()
 
@@ -201,11 +206,15 @@ def main():
 
     # create a dataframe of random matches
     random_matches = pd.DataFrame()
-    match_ids = np.arange(1, 11)
+    matches = []
+    match_ids = np.arange(1, MATCHES_TO_CREATE)
     for i in range(len(match_ids)):
-        random_matches = random_matches.append(
-            create_random_match_data(team_names, team_dataframes_5, match_ids[i])
+        print("Creating match " + str(i + 1) + " of " + str(len(match_ids)))
+        random_match = create_random_match_data(
+            team_names, team_dataframes_5, match_ids[i]
         )
+        matches.append(random_match)
+    random_matches = pd.concat(matches)
 
     # write the random matches to a csv file
     random_matches.to_csv("random_matches.csv", index=False)

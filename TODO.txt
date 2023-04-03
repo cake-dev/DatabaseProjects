@@ -1,0 +1,2 @@
+inset game_data
+create and insert game_performances (random_matches)
